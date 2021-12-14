@@ -515,12 +515,10 @@ footer {
                 margin: 0 auto;
             }
         }
-        .collection {
-            background-attachment:local;
-            object-fit: contain;
-        }
         .img-collection {
             height: 50vh;
+            background-attachment:local;
+            object-fit: contain;
         }
         .products {
             .product {

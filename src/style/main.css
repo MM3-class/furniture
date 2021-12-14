@@ -688,13 +688,11 @@ footer .contact-me a .fas:hover {
     text-align: center;
     margin: 0 auto;
   }
-  .container .collection {
+  .container .img-collection {
+    height: 50vh;
     background-attachment: local;
     -o-object-fit: contain;
        object-fit: contain;
-  }
-  .container .img-collection {
-    height: 50vh;
   }
   .container .products .product {
     display: -ms-grid;

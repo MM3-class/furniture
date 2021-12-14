@@ -510,10 +510,17 @@ footer {
             .category {
                 padding: 16px 0;
             }
+            .intro-category {
+                text-align: center;
+                margin: 0 auto;
+            }
         }
         .collection {
             background-attachment:local;
             object-fit: contain;
+        }
+        .img-collection {
+            height: 50vh;
         }
         .products {
             .product {
@@ -579,6 +586,19 @@ footer {
                     padding: 0 6px;
                 }
             }
+        }
+    }
+    .banner {
+        background-attachment:local;
+        object-fit: contain;
+        height: 100vh;
+    }
+    .collection {
+        background-attachment:local;
+        object-fit: contain;
+        height: 80vh;
+        .title-collection {
+            top: 50%;
         }
     }
     .information {

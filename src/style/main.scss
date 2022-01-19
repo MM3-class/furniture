@@ -1,4 +1,4 @@
-//BOOTSTRAP
+//SASS files
 @import "./variables";
 @import "./function.scss";
 
@@ -406,7 +406,7 @@ footer {
         }
         .menu {
             width: 100%;
-            position: relative;
+            position: fixed;
             transition: all .7s;
             z-index: 1000;
             display: block;
